@@ -1,0 +1,470 @@
+[
+	{
+		"name": "Anarcho-communisme",
+		"stats": {
+			"econ": 100,
+			"dipl": 50,
+			"govt": 100,
+			"scty": 90
+		}
+	},
+	{
+		"name": "Libertair Socialisme",
+		"stats": {
+			"econ": 100,
+			"dipl": 70,
+			"govt": 80,
+			"scty": 80
+		}
+	},
+	{
+		"name": "Trotskisme",
+		"stats": {
+			"econ": 100,
+			"dipl": 100,
+			"govt": 60,
+			"scty": 80
+		}
+	},
+	{
+		"name": "Marxisme",
+		"stats": {
+			"econ": 100,
+			"dipl": 70,
+			"govt": 40,
+			"scty": 80
+		}
+	},
+	{
+		"name": "De Leonisme",
+		"stats": {
+			"econ": 100,
+			"dipl": 30,
+			"govt": 30,
+			"scty": 80
+		}
+	},
+	{
+		"name": "Leninisme",
+		"stats": {
+			"econ": 100,
+			"dipl": 40,
+			"govt": 20,
+			"scty": 70
+		}
+	},
+	{
+		"name": "Stalinisme/Maoisme",
+		"stats": {
+			"econ": 100,
+			"dipl": 20,
+			"govt": 0,
+			"scty": 60
+		}
+	},
+	{
+		"name": "Religieus Communisme",
+		"stats": {
+			"econ": 100,
+			"dipl": 50,
+			"govt": 30,
+			"scty": 30
+		}
+	},
+	{
+		"name": "Staatssocialisme",
+		"stats": {
+			"econ": 80,
+			"dipl": 30,
+			"govt": 30,
+			"scty": 70
+		}
+	},
+	{
+		"name": "Theocratisch Socialisme",
+		"stats": {
+			"econ": 80,
+			"dipl": 50,
+			"govt": 30,
+			"scty": 20
+		}
+	},
+	{
+		"name": "Religieus Socialisme",
+		"stats": {
+			"econ": 80,
+			"dipl": 50,
+			"govt": 70,
+			"scty": 20
+		}
+	},
+	{
+		"name": "Democratisch Socialisme",
+		"stats": {
+			"econ": 80,
+			"dipl": 50,
+			"govt": 50,
+			"scty": 80
+		}
+	},
+	{
+		"name": "Revolutionair Socialisme",
+		"stats": {
+			"econ": 80,
+			"dipl": 20,
+			"govt": 50,
+			"scty": 70
+		}
+	},
+	{
+		"name": "Libertair Socialisme",
+		"stats": {
+			"econ": 80,
+			"dipl": 80,
+			"govt": 80,
+			"scty": 80
+		}
+	},
+	{
+		"name": "Anarcho-syndicalisme",
+		"stats": {
+			"econ": 80,
+			"dipl": 50,
+			"govt": 100,
+			"scty": 80
+		}
+	},
+	{
+		"name": "Links-populisme",
+		"stats": {
+			"econ": 60,
+			"dipl": 40,
+			"govt": 30,
+			"scty": 70
+		}
+	},
+	{
+		"name": "Theocratisch Distributisme",
+		"stats": {
+			"econ": 60,
+			"dipl": 40,
+			"govt": 30,
+			"scty": 20
+		}
+	},
+	{
+		"name": "Distributisme",
+		"stats": {
+			"econ": 60,
+			"dipl": 50,
+			"govt": 50,
+			"scty": 20
+		}
+	},
+	{
+		"name": "Sociaal-liberalisme",
+		"stats": {
+			"econ": 60,
+			"dipl": 60,
+			"govt": 60,
+			"scty": 80
+		}
+	},
+	{
+		"name": "Christielijke Democratie",
+		"stats": {
+			"econ": 60,
+			"dipl": 60,
+			"govt": 50,
+			"scty": 30
+		}
+	},
+	{
+		"name": "Sociaaldemocratie",
+		"stats": {
+			"econ": 60,
+			"dipl": 70,
+			"govt": 60,
+			"scty": 80
+		}
+	},
+	{
+		"name": "Progressivisme",
+		"stats": {
+			"econ": 60,
+			"dipl": 80,
+			"govt": 60,
+			"scty": 100
+		}
+	},
+	{
+		"name": "Anarcho-mutualisme",
+		"stats": {
+			"econ": 60,
+			"dipl": 50,
+			"govt": 100,
+			"scty": 70
+		}
+	},
+	{
+		"name": "Nationaal-totalitairisme",
+		"stats": {
+			"econ": 50,
+			"dipl": 20,
+			"govt": 0,
+			"scty": 50
+		}
+	},
+	{
+		"name": "Schwabisme/neoliberalisme",
+		"stats": {
+			"econ": 50,
+			"dipl": 80,
+			"govt": 0,
+			"scty": 50
+		}
+	},
+	{
+		"name": "Technocratie",
+		"stats": {
+			"econ": 60,
+			"dipl": 60,
+			"govt": 20,
+			"scty": 70
+		}
+	},
+	{
+		"name": "Centrisme",
+		"stats": {
+			"econ": 50,
+			"dipl": 50,
+			"govt": 50,
+			"scty": 50
+		}
+	},
+	{
+		"name": "Liberalisme",
+		"stats": {
+			"econ": 50,
+			"dipl": 60,
+			"govt": 60,
+			"scty": 60
+		}
+	},
+	{
+		"name": "Religieus Anarchisme",
+		"stats": {
+			"econ": 50,
+			"dipl": 50,
+			"govt": 100,
+			"scty": 20
+		}
+	},
+	{
+		"name": "Rechts-populisme",
+		"stats": {
+			"econ": 40,
+			"dipl": 30,
+			"govt": 30,
+			"scty": 30
+		}
+	},
+	{
+		"name": "Conservativisme",
+		"stats": {
+			"econ": 40,
+			"dipl": 40,
+			"govt": 50,
+			"scty": 30
+		}
+	},
+	{
+		"name": "Reactionair",
+		"stats": {
+			"econ": 40,
+			"dipl": 40,
+			"govt": 40,
+			"scty": 10
+		}
+	},
+	{
+		"name": "Sociaal-libertarisme",
+		"stats": {
+			"econ": 60,
+			"dipl": 70,
+			"govt": 80,
+			"scty": 70
+		}
+	},
+	{
+		"name": "Libertarisme",
+		"stats": {
+			"econ": 40,
+			"dipl": 60,
+			"govt": 80,
+			"scty": 60
+		}
+	},
+	{
+		"name": "Anarcho-egoisme",
+		"stats": {
+			"econ": 40,
+			"dipl": 50,
+			"govt": 100,
+			"scty": 50
+		}
+	},
+	{
+		"name": "Nazisme",
+		"stats": {
+			"econ": 40,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 5
+		}
+	},
+	{
+		"name": "Autocratie",
+		"stats": {
+			"econ": 50,
+			"dipl": 20,
+			"govt": 20,
+			"scty": 50
+		}
+	},
+	{
+		"name": "Fascisme",
+		"stats": {
+			"econ": 40,
+			"dipl": 20,
+			"govt": 20,
+			"scty": 20
+		}
+	},
+	{
+		"name": "Rechts-fascisme",
+		"stats": {
+			"econ": 20,
+			"dipl": 20,
+			"govt": 20,
+			"scty": 20
+		}
+	},
+	{
+		"name": "Fortuynisme",
+		"stats": {
+			"econ": 30,
+			"dipl": 40,
+			"govt": 40,
+			"scty": 20
+		}
+	},
+	{
+		"name": "Neoliberalisme/Vaccinazisme",
+		"stats": {
+			"econ": 80,
+			"dipl": 100,
+			"govt": 90,
+			"scty": 80
+		}
+	},
+	{
+		"name": "Klassiek Liberalisme",
+		"stats": {
+			"econ": 30,
+			"dipl": 60,
+			"govt": 60,
+			"scty": 80
+		}
+	},
+	{
+		"name": "Authoritair Kapitalisme",
+		"stats": {
+			"econ": 20,
+			"dipl": 30,
+			"govt": 20,
+			"scty": 40
+		}
+	},
+	{
+		"name": "Staatskapitalisme",
+		"stats": {
+			"econ": 20,
+			"dipl": 50,
+			"govt": 30,
+			"scty": 50
+		}
+	},
+	{
+		"name": "Thierryisme",
+		"stats": {
+			"econ": 10,
+			"dipl": 20,
+			"govt": 80,
+			"scty": 20
+		}
+	},
+	{
+		"name": "Fundamentalisme",
+		"stats": {
+			"econ": 20,
+			"dipl": 30,
+			"govt": 30,
+			"scty": 5
+		}
+	},
+	{
+		"name": "Libertair Kapitalisme",
+		"stats": {
+			"econ": 20,
+			"dipl": 50,
+			"govt": 80,
+			"scty": 60
+		}
+	},
+	{
+		"name": "Markt-anarchisme",
+		"stats": {
+			"econ": 20,
+			"dipl": 50,
+			"govt": 100,
+			"scty": 50
+		}
+	},
+	{
+		"name": "Objectivisme",
+		"stats": {
+			"econ": 10,
+			"dipl": 50,
+			"govt": 90,
+			"scty": 40
+		}
+	},
+	{
+		"name": "Totalitair-capitalist",
+		"stats": {
+			"econ": 0,
+			"dipl": 30,
+			"govt": 0,
+			"scty": 50
+		}
+	},
+	{
+		"name": "Ultra-Kapitalisme",
+		"stats": {
+			"econ": 0,
+			"dipl": 40,
+			"govt": 50,
+			"scty": 50
+		}
+	},
+	{
+		"name": "Anarcho-Kapitalisme",
+		"stats": {
+			"econ": 0,
+			"dipl": 50,
+			"govt": 100,
+			"scty": 50
+		}
+	}
+]

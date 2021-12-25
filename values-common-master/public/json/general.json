@@ -1,0 +1,10 @@
+{
+	"title": "DutchValues",
+	"version": "0.0.1",
+	"github": "",
+	"link": "",
+	"description": "Nederlandse politieke test gebaseerd op 8Values",
+	"valQuestion": "What are the values?",
+	"valDescription": "Just the default 8values used to provide an example.",
+	"mainFont": "Montserrat"
+}

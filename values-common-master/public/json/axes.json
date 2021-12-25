@@ -1,0 +1,95 @@
+[
+	{
+		"id": "econ",
+		"name": "Economisch",
+		"weights": [10, 15, 20, 10, 20, 15, 10],
+		"left": {
+			"name": "Socialistisch",
+			"color": "#d32f2f",
+			"description": "Mensen met socialisme op de economische schaal zijn vaak voor herdistributie van belastingsgeld, een rijkentaks en met hogere waardes, communisme."
+		},
+		"right": {
+			"name": "Kapitalisme",
+			"color": "#00796b",
+			"description": "Mensen met kapitalistische scores vinden dat er in de economie op groei gefocust moet worden. Ze zijn vaak voor lagere taxatie, privatisering, deregulatie, en met hoge waardes, laissez-faire kapitalisme."
+		},
+		"tiers": [
+			"Communist",
+			"Socialist",
+			"Sociaal-democraat",
+			"Distributist",
+			"Corporatist",
+			"Kapitalist",
+			"Laissez-Faire"
+		]
+	},
+	{
+		"id": "dipl",
+		"name": "Diplomatisch",
+		"left": {
+			"name": "Globalisme",
+			"color": "#0288d1",
+			"description": "Mensen met globalistische scores zijn globalistisch. Ze geloven vaak in vredige diplomatie ,en met hoge scores een authoritaire wereldstaat."
+		},
+		"right": {
+			"name": "Nationalisme",
+			"color": "#f57c00",
+			"description": "Degenen met hogere nationalisme scores zijn patriottisch en nationalistisch. Ze geloven vaak in een agressief buitenlands beleid, waarbij ze het leger, kracht, soevereiniteit en met hoge waarden,grond willen veroveren."
+		},
+		"tiers": [
+			"Globalist",
+			"Diplomatist",
+			"Liberalist",
+			"Centrist",
+			"Patriotist",
+			"Nationalist",
+			"Chauvinist"
+		]
+	},
+	{
+		"id": "burg",
+		"name": "Burgelijke vrijheden",
+		"left": {
+			"name": "Libertair",
+			"color": "#fbc02d",
+			"description": "Degenen met hogere Libertarische scores geloven in mensenrechten. Libertariers zijn vaak voorstanders van democratie and en zijn tegen staatsinterventie in hun dagelijkse leven."
+		},
+		"right": {
+			"name": "Authoritair",
+			"color": "#303f9f",
+			"description": "Degenen met hogere Autoriteits scores geloven in sterke staatsmacht. Ze hebben de neiging om voor staatsinterventie in het persoonlijke leven, overheidspionage en bij hoge waarden censuur of autocratie te ondersteunen."
+		},
+		"tiers": [
+			"Anarchist",
+			"Libertarier",
+			"Liberaal",
+			"Gematigd",
+			"Statist",
+			"Authoritair",
+			"Totalitair"
+		]
+	},
+	{
+		"id": "same",
+		"name": "Samenleving",
+		"left": {
+			"name": "Progressief",
+			"color": "#7b1fa2",
+			"description": "Mensen die hogere progressieve scores geloven in sociale verandering. Vaak zijn hun atheistisch en steunen zij klimaatinterventie en wetenschap en met hogere waarden, globalisme."
+		},
+		"right": {
+			"name": "Conservatief",
+			"color": "#689f38",
+			"description": "Degenen met hogere conservatieve scores geloven in traditionele waarden en strikte naleving van een morele waarden. Hoewel niet altijd, zijn ze meestal religieus."
+		},
+		"tiers": [
+			"Revolutionair",
+			"Progressief",
+			"Liberaal",
+			"Neutraal",
+			"Conservatief",
+			"Traditioneel",
+			"Reactionair"
+		]
+	}
+]

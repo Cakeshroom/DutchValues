@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Zeer mee eens",
+		"modifier": 1,
+		"color": "#1b5e20",
+		"focusColor": "#154a19"
+	},
+	{
+		"name": "Mee eens",
+		"modifier": 0.5,
+		"color": "#4caf50",
+		"focusColor": "#29942e"
+	},
+	{
+		"name": "Neutraal",
+		"modifier": 0,
+		"color": "#949494",
+		"focusColor": "#656565"
+	},
+	{
+		"name": "Niet mee eens",
+		"modifier": -0.5,
+		"color": "#f44336",
+		"focusColor": "#d6271a"
+	},
+	{
+		"name": "Zeer niet mee eens",
+		"modifier": -1,
+		"color": "#b71c1c",
+		"focusColor": "#a00e0e"
+	}
+]

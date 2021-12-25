@@ -1,0 +1,632 @@
+[
+	{
+		"question": "Onderdrukking van corporaties is een groter probleem dan onderdrukking van de overheid.",
+		"effect": {
+			"econ": 10,
+			"dipl": 0,
+			"burg": -5,
+			"same": 0
+		}
+	},
+	{
+		"question": "Er moet overheidsinterventie zijn in de markt",
+		"effect": {
+			"econ": 10,
+			"dipl": 0,
+			"burg": -5,
+			"same": 0
+		}
+	},
+	{
+		"question": "Hoe vrijer de markt, hoe vrijer het volk",
+		"effect": {
+			"econ": -10,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 0
+		}
+	},
+	{
+		"question": "We moeten een gebalanceerde staatskas prioritizeren over sociale welvaart",
+		"effect": {
+			"econ": -10,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Staatswetenschap is beter dan de wetenschap aan de markt over te laten",
+		"effect": {
+			"econ": 10,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 5
+		}
+	},
+	{
+		"question": "Tarieven op internationale handel zouden cruciaal zijn om lokale ondernemingen te steunen",
+		"effect": {
+			"econ": 5,
+			"dipl": 0,
+			"govt": -10,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Van ieder naar zijn vermogen, naar ieder naar zijn behoeften.",
+		"effect": {
+			"econ": 10,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Het zou het beste zijn als sociale programma's werden afgeschaft ten gunste van particuliere goede doelen",
+		"effect": {
+			"econ": -10,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Belasting moet omhoog gaan voor de rijken zodat we de armen gratis geld kunnen schenken",
+		"effect": {
+			"econ": 10,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Erfenis is een legitieme vorm van rijkdom.",
+		"effect": {
+			"econ": -10,
+			"dipl": 0,
+			"govt": 0,
+			"scty": -5
+		}
+	},
+	{
+		"question": "Winkels sluiten wegens cojona is absurd",
+		"effect": {
+			"econ": -10,
+			"dipl": 0,
+			"govt": 5,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Overheidsinterventie is een bedreiging voor de economie.",
+		"effect": {
+			"econ": -10,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Degenen met meer geld verdienen betere zorg",
+		"effect": {
+			"econ": -10,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Eductaie van kwalitiet is een recht voor alle Nederlanders",
+		"effect": {
+			"econ": 10,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 5
+		}
+	},
+	{
+		"question": "De productiemiddelen moeten toebehoren aan de arbeiders die ze gebruiken.",
+		"effect": {
+			"econ": 10,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 5
+		}
+	},
+	{
+		"question": "De VN moet gestopt worden.",
+		"effect": {
+			"econ": 0,
+			"dipl": -10,
+			"govt": -5,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Militaire actie is nodig om ons land te beschermen.",
+		"effect": {
+			"econ": 0,
+			"dipl": -10,
+			"govt": -10,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Ik steun regionale unies als de Europese Unie",
+		"effect": {
+			"econ": 5,
+			"dipl": 10,
+			"govt": -5,
+			"scty": 10
+		}
+	},
+	{
+		"question": "Het is belangrijk om onze nationale soevergniteit te behouden",
+		"effect": {
+			"econ": 0,
+			"dipl": -10,
+			"govt": -5,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Een verenigde wereldstaat zou benificieel zijn voor het mensenlijke ras",
+		"effect": {
+			"econ": 0,
+			"dipl": 10,
+			"govt": 0,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Het is belangrijker om diplomatische relaties te behouden met een land dan onze sterkte te vergroten",
+		"effect": {
+			"econ": 0,
+			"dipl": 10,
+			"govt": 0,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Momenteel hoeven we geen oorlogen te voeren met andere landen",
+		"effect": {
+			"econ": 0,
+			"dipl": -10,
+			"govt": -10,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Militaire uitgaven zijn geldverspilling.",
+		"effect": {
+			"econ": 0,
+			"dipl": 10,
+			"govt": 10,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Geld naar ontwikkelinglanden is geldverspilling",
+		"effect": {
+			"econ": -5,
+			"dipl": -10,
+			"govt": 0,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Mijn land is groots",
+		"effect": {
+			"econ": 0,
+			"dipl": -10,
+			"govt": 0,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Wetenschap moeten we op internationale schaal doen",
+		"effect": {
+			"econ": 0,
+			"dipl": 10,
+			"govt": 0,
+			"scty": 10
+		}
+	},
+	{
+		"question": "Regeringen moeten verantwoording afleggen aan de internationale gemeenschap.",
+		"effect": {
+			"econ": 0,
+			"dipl": 10,
+			"govt": 5,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Zelfs wanneer je tegen een authoritaire staat demonstreerd is geweld onacceptabel",
+		"effect": {
+			"econ": 0,
+			"dipl": 5,
+			"govt": -5,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Mijn religiueze waarden moeten verder verspreid worden.",
+		"effect": {
+			"econ": 0,
+			"dipl": -5,
+			"govt": -10,
+			"scty": -10
+		}
+	},
+	{
+		"question": "De Nederlandse waarden moeten verder verspreid worden",
+		"effect": {
+			"econ": 0,
+			"dipl": -10,
+			"govt": 0,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Law and order, law and order bla bla bla",
+		"effect": {
+			"econ": 0,
+			"dipl": -5,
+			"govt": -10,
+			"scty": -5
+		}
+	},
+	{
+		"question": "Het volk maakt slechte keuzes",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": -10,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Emo's moeten ethuansie kunnen plegen",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": 10,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Onze vrijheden moeten ingepikt kunnen worden tijdens de coronacrisis",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": -10,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Overheids tracering is nodig in de huidige wereld",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": -10,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Alleen al het bestaan van de staat is een bedreiging voor onze vrijheid.",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": 10,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Ongeacht de politieke opvattingen is het belangrijk om de kant van je land te kiezen.",
+		"effect": {
+			"econ": 0,
+			"dipl": -10,
+			"govt": -10,
+			"scty": -5
+		}
+	},
+	{
+		"question": "Alle authoriteiten hebben kritiek nodig",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": 10,
+			"scty": 5
+		}
+	},
+	{
+		"question": "Een hierarchie is het best",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": -10,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Het is belangrijk dat de overheid luisterd naar de opinie van de burgers, ookal is deze fout",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": 10,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Hoe sterker het leiderschap, hoe beter.",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": -10,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Democratie is meer dan eens in de vier jaar stemmen.",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": 10,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Een klimaatakkoord is essentieel.",
+		"effect": {
+			"econ": 5,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 10
+		}
+	},
+	{
+		"question": "Een betere wereld zal komen van automatisering, wetenschap en technologie.",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 10
+		}
+	},
+	{
+		"question": "Kinderen zouden geeducateerd moeten worden in traditionele waarden",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": -5,
+			"scty": -10
+		}
+	},
+	{
+		"question": "Tradities hebben van zichzelf geen enkele waarde",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 10
+		}
+	},
+	{
+		"question": "Religie moet een rol hebben in de overheid.",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": -10,
+			"scty": -10
+		}
+	},
+	{
+		"question": "Kerken moeten op dezelfde manier worden belast als andere instellingen.",
+		"effect": {
+			"econ": 5,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 10
+		}
+	},
+	{
+		"question": "Klimaatverandering is een groot gevaar voor onze huidige manier van leven.",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 10
+		}
+	},
+	{
+		"question": "Het is belangrijk dat we als verenigde wereld werken aan de bestrijding van klimaatverandering.",
+		"effect": {
+			"econ": 0,
+			"dipl": 10,
+			"govt": 0,
+			"scty": 10
+		}
+	},
+	{
+		"question": "De samenleving was een tijdje terug vele malen beter dan tegenwoordig.",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": 0,
+			"scty": -10
+		}
+	},
+	{
+		"question": "Het is belangrijk dat we onze Nederlandse tradities en cultuur bewaken.",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": 0,
+			"scty": -10
+		}
+	},
+	{
+		"question": "Het is belangrijk dat we op de lange termijn denken, voorbij onze levensduur.",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 10
+		}
+	},
+	{
+		"question": "Reden is belangrijker dan het beschermen van de Nederlandse cultuur",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 10
+		}
+	},
+	{
+		"question": "Drugsgebruik moet gelegaliseerd worden",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": 10,
+			"scty": 2
+		}
+	},
+	{
+		"question": "Het homohuwelijk moet legaal worden",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": 10,
+			"scty": 10
+		}
+	},
+	{
+		"question": "Geen enkele cultuur is superieur aan anderen.",
+		"effect": {
+			"econ": 0,
+			"dipl": 10,
+			"govt": 5,
+			"scty": 10
+		}
+	},
+	{
+		"question": "Seks buiten huwelijk hoort niet.",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": -5,
+			"scty": -10
+		}
+	},
+	{
+		"question": "Als we uberhaupt al immigranten binnenlaten moeten zij integreren in onze cultuur.",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": -5,
+			"scty": -10
+		}
+	},
+	{
+		"question": "Abortus moet verboden worden in velen gevallen.",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": -10,
+			"scty": -10
+		}
+	},
+	{
+		"question": "Vaccinatiedwang of plicht is nodig om ons tegen corona te beschermen",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": -10,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Ik ben voorstander van universele gezondheidszorg.",
+		"effect": {
+			"econ": 10,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Hoeren moeten illegaal zijn.",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": -10,
+			"scty": -10
+		}
+	},
+	{
+		"question": "]Familie tradies bewaken is essentieel.",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": 0,
+			"scty": -10
+		}
+	},
+	{
+		"question": "Progressie boven al het andere te zetten is gevaarlijk",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": 0,
+			"scty": -10
+		}
+	},
+	{
+		"question": "Genetische modificatie is een groot goed, zelfs op mensen.",
+		"effect": {
+			"econ": 0,
+			"dipl": 0,
+			"govt": 0,
+			"scty": 10
+		}
+	},
+	{
+		"question": "We moeten meer asielzoekers ontvangen dan we nu doen.",
+		"effect": {
+			"econ": 0,
+			"dipl": 10,
+			"govt": 10,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Onze staat moet zich net zoveel zorgen maken om buitenlanders als om Nederlanders.",
+		"effect": {
+			"econ": 0,
+			"dipl": 10,
+			"govt": 0,
+			"scty": 0
+		}
+	},
+	{
+		"question": "Ik steun Artikel 1 van de grondwet.",
+		"effect": {
+			"econ": 10,
+			"dipl": 10,
+			"govt": 10,
+			"scty": 10
+		}
+	},
+	{
+		"question": "We moeten de doelen van onze groep boven die van anderen stellen.",
+		"effect": {
+			"econ": -10,
+			"dipl": -10,
+			"govt": -10,
+			"scty": -10
+		}
+	}
+]
